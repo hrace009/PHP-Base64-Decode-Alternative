@@ -1,5 +1,5 @@
 # PHP Base64 Decode Alternative
-Some strict antivirus will detected the native one to prevent exploits that use that method. So we need some costume <code>base64_encode</code>
+Some stricth antivirus will detected the native one as {HEX}base64.inject.unclassed.6.UNOFFICIAL FOUND, to prevent exploits that use that method. So we need some costume <code>base64_encode</code>
 
 ### Usage
 Use <code>Your_Costum_Base64_Decode_Function</code> as you would the standard <code>base64_decode</code> function.
