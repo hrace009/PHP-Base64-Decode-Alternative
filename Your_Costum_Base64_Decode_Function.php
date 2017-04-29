@@ -27,4 +27,3 @@ function Your_Costum_Base64_Decode_Function($input) {
 	} while ($i < strlen($input));
 	return urldecode($output);
 }
-?>
